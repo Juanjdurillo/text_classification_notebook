@@ -17,6 +17,6 @@ pip3 install torch
 pip3 install datasets
 pip3 install matplotlib
 pip3 install transformers
-pip3 isntall sklearn
+pip3 install sklearn
 ```
 
