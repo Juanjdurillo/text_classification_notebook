@@ -13,6 +13,7 @@ sudo apt install python3 python3-pip
 Then the notebook dependencies might be installed as
 
 ```bash
+pip3 install jupyter
 pip3 install torch
 pip3 install datasets
 pip3 install matplotlib
